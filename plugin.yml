@@ -1,0 +1,10 @@
+name: Mr_Chat
+main: top.ascserver.mr_chat.Mr_Chat
+version: "1.1.0"
+api: ["1.0.0"]
+load: POSTWORLD
+author: Mr_sky
+description: 聊天
+
+#commands: []
+#permissions: []
